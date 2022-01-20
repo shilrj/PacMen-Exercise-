@@ -22,3 +22,14 @@ To install this project in your machine, follow these steps:
 
 1. Responsive support
 2. Pacmen change face direction when hit x axis limit
+
+## File Structure 📁
+   PacMen-Exercise-
+      images/pacman1
+      images/pacman2
+      images/pacman3
+      images/pacman4
+      Index.html
+      pacmen.js
+      License
+      
