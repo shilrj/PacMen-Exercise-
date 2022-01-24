@@ -11,7 +11,7 @@ To install this project in your machine, follow these steps:
 
 1. Download or clone the repository
 2. Go to content folder and add it to your code editor tool
-3. Open index.html
+3. Open PacMan.html into your chrome browser.
 
 ## Run 🚀
 1. Click the "Add PacMan" button, a new pacman appears at a random position on the screen.
