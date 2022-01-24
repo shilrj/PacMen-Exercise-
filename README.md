@@ -51,7 +51,7 @@ SOFTWARE.
      - images/pacman2
      - images/pacman3
      - images/pacman4
-     - Index.html
+     - pacman.html
      - pacmen.js
      - README.md
      - License
